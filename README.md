@@ -5,10 +5,15 @@ Very basic website and API that aggregates reviews for the dining halls of UMD.
 ## API
 
 GET all endpoint route: `/api/food`
+
 GET particular food by int ID endpoint route: `/api/id/:food_id`
+
 GET best food endpoint route: `/api/best`
+
 GET worst food endpoint route: `/api/worst`
+
 GET most-reviewed food(s) endpoint route: `/api/most`
+
 GET least-reviewed food(s) endpoint route: `/api/least`
 
 ### POST
