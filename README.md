@@ -1,2 +1,3 @@
-# dining-hall-review-website
-Extremely basic website that aggregates reviews for the dining halls of UMD
+# UMD Dining Hall Food Reviews Website
+
+Very basic website and API that aggregates reviews for the dining halls of UMD.
