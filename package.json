@@ -15,7 +15,7 @@
         "express": "^4.15.2",
         "express-handlebars": "^3.0.0",
         "morgan": "^1.8.1",
-        "marked": "^0.3.6",
+        "marked": "^4.0.10",
         "moment": "^2.29.4"
     }
 }
